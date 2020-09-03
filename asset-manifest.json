@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/spa-react-blog-beta/static/css/main.83ff1190.chunk.css",
-    "main.js": "/spa-react-blog-beta/static/js/main.dcb7952c.chunk.js",
-    "main.js.map": "/spa-react-blog-beta/static/js/main.dcb7952c.chunk.js.map",
+    "main.js": "/spa-react-blog-beta/static/js/main.403caf81.chunk.js",
+    "main.js.map": "/spa-react-blog-beta/static/js/main.403caf81.chunk.js.map",
     "runtime-main.js": "/spa-react-blog-beta/static/js/runtime-main.e0e9d787.js",
     "runtime-main.js.map": "/spa-react-blog-beta/static/js/runtime-main.e0e9d787.js.map",
     "static/js/2.2ea0d433.chunk.js": "/spa-react-blog-beta/static/js/2.2ea0d433.chunk.js",
     "static/js/2.2ea0d433.chunk.js.map": "/spa-react-blog-beta/static/js/2.2ea0d433.chunk.js.map",
     "index.html": "/spa-react-blog-beta/index.html",
-    "precache-manifest.29b313d9c4b2b77eb5fce546a2c170b7.js": "/spa-react-blog-beta/precache-manifest.29b313d9c4b2b77eb5fce546a2c170b7.js",
+    "precache-manifest.607f39b6c3e679d91d0575dd4b2ec8b7.js": "/spa-react-blog-beta/precache-manifest.607f39b6c3e679d91d0575dd4b2ec8b7.js",
     "service-worker.js": "/spa-react-blog-beta/service-worker.js",
     "static/css/main.83ff1190.chunk.css.map": "/spa-react-blog-beta/static/css/main.83ff1190.chunk.css.map",
     "static/js/2.2ea0d433.chunk.js.LICENSE.txt": "/spa-react-blog-beta/static/js/2.2ea0d433.chunk.js.LICENSE.txt",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.e0e9d787.js",
     "static/js/2.2ea0d433.chunk.js",
     "static/css/main.83ff1190.chunk.css",
-    "static/js/main.dcb7952c.chunk.js"
+    "static/js/main.403caf81.chunk.js"
   ]
 }
