@@ -1,31 +1,31 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a50ac7aea81e60ec96284ff6d35327b0",
+    "revision": "dc3d0d5d6a97c54f996bc746ced96b27",
     "url": "/spa-react-blog-beta/index.html"
   },
   {
-    "revision": "9f621663b8e235e10e4c",
-    "url": "/spa-react-blog-beta/static/css/main.a99b380c.chunk.css"
+    "revision": "d8561ebb268d63660398",
+    "url": "/spa-react-blog-beta/static/css/main.9eaba8bd.chunk.css"
   },
   {
-    "revision": "47369c667e0e09f7ccf3",
-    "url": "/spa-react-blog-beta/static/js/2.10b08f7e.chunk.js"
+    "revision": "ccfc970f8776e6bd6daa",
+    "url": "/spa-react-blog-beta/static/js/2.f3400e38.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/spa-react-blog-beta/static/js/2.10b08f7e.chunk.js.LICENSE.txt"
+    "url": "/spa-react-blog-beta/static/js/2.f3400e38.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9f621663b8e235e10e4c",
-    "url": "/spa-react-blog-beta/static/js/main.326be53d.chunk.js"
+    "revision": "d8561ebb268d63660398",
+    "url": "/spa-react-blog-beta/static/js/main.c1d4ba26.chunk.js"
   },
   {
     "revision": "feebae15a5a9126b8250",
     "url": "/spa-react-blog-beta/static/js/runtime-main.e0e9d787.js"
   },
   {
-    "revision": "f6913ac5ea548c765a2fd0fff8f885fb",
-    "url": "/spa-react-blog-beta/static/media/AboutMeIcon.f6913ac5.svg"
+    "revision": "57574e69161d5f439ac464bce26aacb1",
+    "url": "/spa-react-blog-beta/static/media/AboutMeIcon.57574e69.svg"
   },
   {
     "revision": "6b8cbe4735da0828fa05cb0c49818d3f",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spa-react-blog-beta/static/media/backendIcon.1986610b.svg"
   },
   {
-    "revision": "429555d108bdea2f06b3f894861c33f4",
-    "url": "/spa-react-blog-beta/static/media/contactIcon.429555d1.svg"
+    "revision": "f2763f2f596b2a7d9a64ad8d3fff2827",
+    "url": "/spa-react-blog-beta/static/media/contactIcon.f2763f2f.svg"
   },
   {
     "revision": "6e0189df1aa560ae4749aa42513b75fc",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spa-react-blog-beta/static/media/emailIcon.8b132209.svg"
   },
   {
-    "revision": "7cc48f0f2e101152b108d1166feaf2ab",
-    "url": "/spa-react-blog-beta/static/media/footer6.7cc48f0f.svg"
+    "revision": "a2ec2c016149b4d9ee49dcbbd88e072a",
+    "url": "/spa-react-blog-beta/static/media/footer.a2ec2c01.svg"
   },
   {
     "revision": "06cf7ead0954bd4f34ee4c55c97384a1",
@@ -64,8 +64,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spa-react-blog-beta/static/media/heydar.e1a7c872.jfif"
   },
   {
-    "revision": "19ca196a7208956a192873aad990d0d6",
-    "url": "/spa-react-blog-beta/static/media/house.19ca196a.svg"
+    "revision": "70f931da1265b8d5731ca89c4ff52cf7",
+    "url": "/spa-react-blog-beta/static/media/house.70f931da.svg"
   },
   {
     "revision": "bc7203098db95f5ef8d9e438c9d048ff",
@@ -92,20 +92,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spa-react-blog-beta/static/media/phoneIcon.14512106.svg"
   },
   {
-    "revision": "1f10604d739fdeecfb45284bd0bbd02a",
-    "url": "/spa-react-blog-beta/static/media/portfolioIcon.1f10604d.svg"
+    "revision": "2bb52cf66f8c01300945834ad17bb379",
+    "url": "/spa-react-blog-beta/static/media/portfolioIcon.2bb52cf6.svg"
   },
   {
     "revision": "35abfcfb7467e9f91fdb972ac7a899ca",
     "url": "/spa-react-blog-beta/static/media/reactIcon.35abfcfb.svg"
   },
   {
-    "revision": "61e9e973e44f6a5700f75a26c84f4935",
-    "url": "/spa-react-blog-beta/static/media/servicesIcon.61e9e973.svg"
+    "revision": "6647fd9900afa9c87a227abd766169c7",
+    "url": "/spa-react-blog-beta/static/media/servicesIcon.6647fd99.svg"
   },
   {
-    "revision": "5de4997ef132ee1d451393550e049225",
-    "url": "/spa-react-blog-beta/static/media/testimonialsIcon.5de4997e.svg"
+    "revision": "0d5366a34da08072d68038cda60f6cdd",
+    "url": "/spa-react-blog-beta/static/media/testimonialsIcon.0d5366a3.svg"
   },
   {
     "revision": "8564c75b131c07a70099031977b2350f",
