@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e81cac871475261d3f2407b27ba81977",
+    "revision": "0c10b3095c6b53779c4444e25e03dc1c",
     "url": "/spa-react-blog-beta/index.html"
   },
   {
-    "revision": "50c8682ae8172b3f7009",
-    "url": "/spa-react-blog-beta/static/css/main.d89cc032.chunk.css"
+    "revision": "6ec79b393b60933a986f",
+    "url": "/spa-react-blog-beta/static/css/main.9a78eed7.chunk.css"
   },
   {
-    "revision": "8c6a9b612dc5db0af8de",
-    "url": "/spa-react-blog-beta/static/js/2.1a863f10.chunk.js"
+    "revision": "11a9b117c8c4c9d057d8",
+    "url": "/spa-react-blog-beta/static/js/2.182057df.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/spa-react-blog-beta/static/js/2.1a863f10.chunk.js.LICENSE.txt"
+    "url": "/spa-react-blog-beta/static/js/2.182057df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "50c8682ae8172b3f7009",
-    "url": "/spa-react-blog-beta/static/js/main.619ea53f.chunk.js"
+    "revision": "6ec79b393b60933a986f",
+    "url": "/spa-react-blog-beta/static/js/main.7f67ae73.chunk.js"
   },
   {
     "revision": "feebae15a5a9126b8250",
@@ -94,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2bb52cf66f8c01300945834ad17bb379",
     "url": "/spa-react-blog-beta/static/media/portfolioIcon.2bb52cf6.svg"
+  },
+  {
+    "revision": "f68802008be47d69c1acba860d356085",
+    "url": "/spa-react-blog-beta/static/media/post.f6880200.jpg"
   },
   {
     "revision": "35abfcfb7467e9f91fdb972ac7a899ca",
