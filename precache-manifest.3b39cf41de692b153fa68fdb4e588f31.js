@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c382b3a85cad72056e3f8c481fad02a5",
+    "revision": "2339cd7ba420986a0457581adf45f587",
     "url": "/spa-react-blog-beta/index.html"
   },
   {
-    "revision": "de9567e4eca117cc5def",
-    "url": "/spa-react-blog-beta/static/css/main.9a78eed7.chunk.css"
+    "revision": "f49ebbe115dcab94ceb4",
+    "url": "/spa-react-blog-beta/static/css/main.535f20ab.chunk.css"
   },
   {
-    "revision": "11a9b117c8c4c9d057d8",
-    "url": "/spa-react-blog-beta/static/js/2.182057df.chunk.js"
+    "revision": "4106b8aa94843520ce2f",
+    "url": "/spa-react-blog-beta/static/js/2.3958b737.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/spa-react-blog-beta/static/js/2.182057df.chunk.js.LICENSE.txt"
+    "url": "/spa-react-blog-beta/static/js/2.3958b737.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "de9567e4eca117cc5def",
-    "url": "/spa-react-blog-beta/static/js/main.fe388fc5.chunk.js"
+    "revision": "f49ebbe115dcab94ceb4",
+    "url": "/spa-react-blog-beta/static/js/main.701c8482.chunk.js"
   },
   {
     "revision": "feebae15a5a9126b8250",
@@ -44,10 +44,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spa-react-blog-beta/static/media/contactIcon.f2763f2f.svg"
   },
   {
-    "revision": "6e0189df1aa560ae4749aa42513b75fc",
-    "url": "/spa-react-blog-beta/static/media/djena.6e0189df.jfif"
-  },
-  {
     "revision": "8b132209365abd5364619137937599a4",
     "url": "/spa-react-blog-beta/static/media/emailIcon.8b132209.svg"
   },
@@ -60,16 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spa-react-blog-beta/static/media/fullstackIcon.06cf7ead.svg"
   },
   {
-    "revision": "e1a7c872b37b6b697aebc2dc848d2115",
-    "url": "/spa-react-blog-beta/static/media/heydar.e1a7c872.jfif"
+    "revision": "05e6f97245bbdfa1c14d16055303553b",
+    "url": "/spa-react-blog-beta/static/media/haydar.05e6f972.jpg"
   },
   {
     "revision": "70f931da1265b8d5731ca89c4ff52cf7",
     "url": "/spa-react-blog-beta/static/media/house.70f931da.svg"
-  },
-  {
-    "revision": "bc7203098db95f5ef8d9e438c9d048ff",
-    "url": "/spa-react-blog-beta/static/media/kuba.bc720309.jpg"
   },
   {
     "revision": "14e54edd3aa3f587bd31834b96b6da89",
@@ -80,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/spa-react-blog-beta/static/media/location.dca58b33.svg"
   },
   {
-    "revision": "296a8cbbfb5cff9939d83aa782212f8c",
-    "url": "/spa-react-blog-beta/static/media/peter.296a8cbb.jpg"
+    "revision": "cd453e4cb50f5671f82abc157c998003",
+    "url": "/spa-react-blog-beta/static/media/minus.cd453e4c.svg"
   },
   {
-    "revision": "f761e4994ba7601d23cda0afc1f726ca",
-    "url": "/spa-react-blog-beta/static/media/peter.f761e499.jfif"
+    "revision": "296a8cbbfb5cff9939d83aa782212f8c",
+    "url": "/spa-react-blog-beta/static/media/peter.296a8cbb.jpg"
   },
   {
     "revision": "145121068bfd87bde5ee14e9e9d7968d",
