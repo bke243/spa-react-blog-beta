@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ea073e27ce7bee5c9d24cb1dcc79852b",
+    "revision": "70b42f94b90a13570addc6ded8ec112c",
     "url": "/spa-react-blog-beta/index.html"
   },
   {
-    "revision": "6c09527ba08c3f700285",
+    "revision": "39a31848ae57f270aae5",
     "url": "/spa-react-blog-beta/static/css/main.9827e619.chunk.css"
   },
   {
-    "revision": "4106b8aa94843520ce2f",
-    "url": "/spa-react-blog-beta/static/js/2.3958b737.chunk.js"
+    "revision": "1b0c30d2c20f8cb34131",
+    "url": "/spa-react-blog-beta/static/js/2.d8e3a2b6.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/spa-react-blog-beta/static/js/2.3958b737.chunk.js.LICENSE.txt"
+    "url": "/spa-react-blog-beta/static/js/2.d8e3a2b6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6c09527ba08c3f700285",
-    "url": "/spa-react-blog-beta/static/js/main.4b279070.chunk.js"
+    "revision": "39a31848ae57f270aae5",
+    "url": "/spa-react-blog-beta/static/js/main.d176257a.chunk.js"
   },
   {
     "revision": "feebae15a5a9126b8250",
