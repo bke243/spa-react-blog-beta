@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/spa-react-blog-beta/static/css/main.535f20ab.chunk.css",
+    "main.css": "/spa-react-blog-beta/static/css/main.9827e619.chunk.css",
     "main.js": "/spa-react-blog-beta/static/js/main.701c8482.chunk.js",
     "main.js.map": "/spa-react-blog-beta/static/js/main.701c8482.chunk.js.map",
     "runtime-main.js": "/spa-react-blog-beta/static/js/runtime-main.e0e9d787.js",
@@ -8,9 +8,9 @@
     "static/js/2.3958b737.chunk.js": "/spa-react-blog-beta/static/js/2.3958b737.chunk.js",
     "static/js/2.3958b737.chunk.js.map": "/spa-react-blog-beta/static/js/2.3958b737.chunk.js.map",
     "index.html": "/spa-react-blog-beta/index.html",
-    "precache-manifest.3b39cf41de692b153fa68fdb4e588f31.js": "/spa-react-blog-beta/precache-manifest.3b39cf41de692b153fa68fdb4e588f31.js",
+    "precache-manifest.75527b692e28c0e4f052bcb04b115702.js": "/spa-react-blog-beta/precache-manifest.75527b692e28c0e4f052bcb04b115702.js",
     "service-worker.js": "/spa-react-blog-beta/service-worker.js",
-    "static/css/main.535f20ab.chunk.css.map": "/spa-react-blog-beta/static/css/main.535f20ab.chunk.css.map",
+    "static/css/main.9827e619.chunk.css.map": "/spa-react-blog-beta/static/css/main.9827e619.chunk.css.map",
     "static/js/2.3958b737.chunk.js.LICENSE.txt": "/spa-react-blog-beta/static/js/2.3958b737.chunk.js.LICENSE.txt",
     "static/media/AboutMeIcon.svg": "/spa-react-blog-beta/static/media/AboutMeIcon.57574e69.svg",
     "static/media/aboutButton.svg": "/spa-react-blog-beta/static/media/aboutButton.6b8cbe47.svg",
@@ -37,7 +37,7 @@
   "entrypoints": [
     "static/js/runtime-main.e0e9d787.js",
     "static/js/2.3958b737.chunk.js",
-    "static/css/main.535f20ab.chunk.css",
+    "static/css/main.9827e619.chunk.css",
     "static/js/main.701c8482.chunk.js"
   ]
 }
